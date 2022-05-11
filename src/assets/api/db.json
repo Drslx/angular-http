@@ -17,6 +17,12 @@
       "model": "Land Rover Range Rover Velar",
       "color": "Branco",
       "price": 377.38
+    },
+    {
+      "model": "ford focus",
+      "color": "prata",
+      "price": 33,
+      "id": 4
     }
   ]
 }

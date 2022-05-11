@@ -1,5 +1,11 @@
 # AngularHttp
 
+# Consuming REST API with HttpClient in Angular
+
+CRUD to help us in a simple and basic way to manipulate cars, we will also create a fake REST API, this fake api will simulate our backend, so we will focus on using the HttpClient.
+
+Credits for the tutorial @Fernando Evangelista at medium.com
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
 
 ## Development server
